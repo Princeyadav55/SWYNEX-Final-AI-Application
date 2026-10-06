@@ -180,3 +180,20 @@ The result includes:
 
 ```bash
 git clone https://github.com/Princeyadav55/SWYNEX-Final-AI-Application.git
+
+## 🎥 Demo
+
+A complete demonstration of the final AI application is provided through the LinkedIn video explanation.
+
+The demo shows:
+
+- SMS spam classification
+- Model confidence
+- Spam probability
+- Risk-level assessment
+- Suspicious indicator detection
+- Safety recommendation
+- Normal SMS testing
+- Responsible AI considerations
+
+The application was tested with both spam and normal SMS examples to demonstrate its behavior.
